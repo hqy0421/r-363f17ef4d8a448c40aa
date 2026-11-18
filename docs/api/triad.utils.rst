@@ -18,6 +18,14 @@ triad.utils.batch\_reslicers
    :show-inheritance:
    :undoc-members:
 
+triad.utils.cdc
+---------------
+
+.. automodule:: triad.utils.cdc
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 triad.utils.class\_extension
 ----------------------------
 
